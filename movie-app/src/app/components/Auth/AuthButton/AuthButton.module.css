@@ -1,0 +1,15 @@
+.auth-button {
+    color: white;
+    width: 104px;
+    height: 34px;
+    background-color: #BB000E;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-weight: medium;
+}
+
+.auth-button:active {
+    scale: .8;
+}

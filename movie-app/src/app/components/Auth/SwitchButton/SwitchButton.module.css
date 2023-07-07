@@ -1,0 +1,18 @@
+.button {
+    width: 225px;
+    height: 48px;
+    border: none;
+    /* pointer-events: none; */
+    color: white;
+    transition: all .2s ease;
+
+}
+
+.active {
+    background-color: #E31C25;
+}
+
+.not-active {
+    background-color: #BB000E;
+}
+

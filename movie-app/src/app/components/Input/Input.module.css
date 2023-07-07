@@ -1,0 +1,49 @@
+
+
+
+.input-base-ligth {
+    border: none;
+    outline: none;
+    border-bottom: solid thin #BB000E;
+    display: block;
+    color: black;
+    background-color: none;
+}
+.input-base-dark {
+    border: none;
+    outline: none;
+    border-bottom: solid thin #BB000E;
+    display: block;
+    color: white;
+    background-color: #2C2C2C;
+}
+
+
+.input-error {
+    border: solid thin #E31C25;
+}
+
+
+.label {
+    color: black
+}
+
+.label-dark {
+    color: white
+}
+
+.label-error {
+    color: #E31C25;
+}
+
+
+.eye-container {
+    position: absolute;
+}
+
+.eye {
+    position: relative;
+    top: -20px;
+    left: 330px;
+}
+

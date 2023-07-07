@@ -1,0 +1,12 @@
+.label {
+    color: white
+}
+
+.select {
+    border: none;
+    outline: none;
+    border-bottom: solid thin #BB000E;
+    display: block;
+    color: white;
+    background-color: #2C2C2C;
+}

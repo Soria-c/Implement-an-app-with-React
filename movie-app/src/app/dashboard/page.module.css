@@ -1,0 +1,11 @@
+.title {
+    margin-top: 90px;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #E31C25;
+    text-underline-offset: 16px;
+    height: 4.5rem;
+    font-size: 3rem;
+    font-weight: 400;
+}
